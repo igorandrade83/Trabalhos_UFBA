@@ -1,3 +1,11 @@
+/*
+** Trabalho de Redes I
+** Curso: Sistemas de Informacao
+** Professor: Gustavo
+** Semestre: 2014.1
+** Alunos: Igor Andrade e Carla Drieli.
+*/
+
 #include <stdio.h>
 #include <ctype.h>
 #include <conio.h>
